@@ -1,0 +1,5 @@
+
+eclipse中maven项目部署到tomcat
+https://www.cnblogs.com/guodefu909/p/4874549.html
+
+每次修改后只需在此运行 tomcat7:redeploy即可（重新编译和部署）
